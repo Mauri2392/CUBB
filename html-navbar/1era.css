@@ -8,14 +8,14 @@
    --celete: rgb(0, 141, 248); 
    --celestedos: rgb(108, 174, 224); 
 
-
    --third: #080808; 
-   --thirdact: #131212; 
+   --thirdact: #1f1f1f; 
    --color-black: #21272f; 
    --black:#141414; 
    --black2: #222; 
 
-   --beigeclaro:rgb(252, 252, 242); 
+ /*  --beigeclaro:rgb(252, 252, 242); */
+   --beigeclaro:rgb(226, 226, 226); 
    --beigeoscuro:rgb(243, 243, 174); 
 
    --bg: #ffffff; 

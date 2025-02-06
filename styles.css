@@ -10,12 +10,12 @@
 
 
    --third: #080808; 
-   --thirdact: #131212; 
+   --thirdact: #1f1f1f;
    --color-black: #21272f; 
    --black:#141414; 
    --black2: #222; 
 
-   --beigeclaro:rgb(226, 226, 200); 
+   --beigeclaro:rgb(226, 226, 226); 
    --beigeoscuro:rgb(243, 243, 174); 
 
    --bg: #ffffff; 
@@ -364,7 +364,7 @@ main {
     width: 100%; /* Ajusta al contenedor */
     border-radius: 20px; 
     padding: 5px;
-  /*   background: repeating-conic-gradient(
+    background: repeating-conic-gradient(
       from var(--a), 
       var(--main-color) 0,
       var(--main-color) 10%,
@@ -372,7 +372,7 @@ main {
       transparent 40%,
       var(--main-color) 50%
     ); 
-    animation: animate-border 4s linear infinite; */
+    animation: animate-border 5s linear infinite; 
   }
 /*
 .box img {
