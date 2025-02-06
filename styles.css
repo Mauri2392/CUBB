@@ -414,6 +414,7 @@ main {
 
 .slider {
     background-color: var(--thirdact); 
+    margin-top: 20px;
 } 
 /* 
 .slider ul{ 
