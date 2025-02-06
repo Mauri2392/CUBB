@@ -15,7 +15,7 @@
    --black:#141414; 
    --black2: #222; 
 
-   --beigeclaro:rgb(247, 247, 211); 
+   --beigeclaro:rgb(248, 248, 230); 
    --beigeoscuro:rgb(243, 243, 174); 
 
    --bg: #ffffff; 
@@ -1087,3 +1087,30 @@ tr:hover {
 } 
 
 } 
+
+.galerinicio {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 5px 10px; 
+}
+  
+.galerinicio img {
+    width: 225px;
+    height: 225px;
+    object-fit: cover;
+    border-radius: 10px; 
+    box-shadow: 0 0 10px var(--prymary); 
+    background-color: var(--white);
+} 
+
+.galerinicio img:hover {
+    box-shadow: 0 0 20px var(--prymary); 
+    scale: 1.04;
+}
+  
