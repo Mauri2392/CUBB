@@ -265,7 +265,7 @@ section{
 
 .footer .icons-container .icons h3{
     font-size: 2rem;
-    color: var(--bg);
+    color: var(--white);
     padding: 1rem 0;
     text-transform: capitalize;
 }
@@ -273,7 +273,7 @@ section{
 .footer .icons-container .icons p{
     line-height: 1.5;
     font-size: 1.8rem;
-    color: var(--bg);
+    color: var(--white);
     text-transform: capitalize;
 }
 
@@ -316,7 +316,7 @@ section{
     margin-top: 3rem;
     padding-top: 3rem;
     font-size: 2rem;
-    color: var(--bg);
+    color: var(--white);
     border-top: var(--celeste);
 } 
 

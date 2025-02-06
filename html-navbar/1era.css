@@ -825,7 +825,8 @@ section {
 
 .acordeon-content p {
     margin: 5px 0;
-    font-size: 16px;
+    font-size: 16px; 
+    text-align: left;
 }
 
 /* ---------------------------------------------- */ 
