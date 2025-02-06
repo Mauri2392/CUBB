@@ -42,8 +42,8 @@ body {
 } 
 
 body.active{ 
-    --thirdact: rgb(245, 245, 185); 
-    --third: #e2c3a1;
+    --thirdact: #f2f2f2; 
+    --third: #e0dddd;
    /* --thirdact: rgb(243, 243, 174); 
     --third: rgb(245, 245, 154);
     --bg: #130f40;
